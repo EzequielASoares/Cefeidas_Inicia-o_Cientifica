@@ -31,16 +31,16 @@ Este trabalho faz parte do **Titan (Time de Astrofísica e Exoplanetologia)**, c
 ## 🗂️ Estrutura do Repositório
 
 ```plaintext
-📦 Cefeidas_Iniciacao_Cientifica
- ┣ 📂docs
- ┃ ┣ 📄 motivation.md
- ┃ ┣ 📄 references.md
+📦 Cefeidas_Inicia-o_Cientifica
+ ┣ 📂cefeidas
+ ┃ ┣ 📄 cefeidas.md
  ┃ ┗ 📄 project_plan.md
  ┣ 📂notebooks
  ┃ ┗ 📄 exploratory_analysis.ipynb
  ┣ 📂src
- ┃ ┣ 📄 preprocessing.py
- ┃ ┗ 📄 model_training.py
+ ┃ ┣ 🌆 Andromeda_Galaxy_(with_h-alpha).jpg
+ ┃ ┗ 🌆 Delta_Cephei_lightcurve.jpg
+ ┃ ┗ 🌆 Henrietta_Swan_Leavitt.jpg
  ┣ 📂data
  ┃ ┗ 📄 exemplo.csv
  ┣ 📂tests
